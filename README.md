@@ -1,53 +1,34 @@
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Mateo%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20at%20Squarenet%20|%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm Mateo 👋
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/Gerard-Mateo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Lead+Developer+at+Squarenet;Data+Scientist+%E2%80%94+Maastricht+University;Backend+Architecture+%2B+Process+Automation;Solving+the+last+mile+of+LatAm+compliance" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/Gerard-Mateo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&vCenter=true&width=520&lines=C%23+%2F+ASP.NET+backend+development;Database+architecture+%26+optimisation;Azure+DevOps+CI%2FCD+and+scaling;ML+on+tabular+data+(TabPFN+vs+XGBoost)" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/matecocovarela/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mvarela@squarenet.com.ec"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Gerard-Mateo&style=for-the-badge&color=36BCF7&label=Profile+views" alt="Profile views"/>
-</p>
+Lead Developer at **Squarenet**, building B2B SaaS for payroll and compliance in Latin America. Data Science graduate from Maastricht University.
 
----
+## What I work on at Squarenet
 
-### 👨‍💻 About me
+- **Database architecture & optimisation.** Schema design, query performance, and expanding the database as the platform and client base grow.
+- **Backend development.** C# with ASP.NET and Razor.
+- **Scalability.** Azure DevOps, CI/CD pipelines, and making the software hold up under more load and more clients.
 
-```python
-class Mateo:
-    role      = "Lead Developer @ Squarenet"
-    education = "Data Science, Maastricht University"
-    building  = "Backend infrastructure & automation for B2B Enterprise SaaS"
-    market    = "Latin America"
-    solving   = "The 'last mile' of local compliance, payroll and data architecture"
-                "that global ERPs like SAP and Oracle don't handle natively"
-    motto     = "Execution over theoretical perfection."
-```
+## Thesis
 
-### 🚀 What I'm working on
+Research on **TabPFN**, a state-of-the-art pretrained model for tabular data and a competitor to gradient-boosted trees like **XGBoost**.
 
-🏢 **Enterprise integration** — Automated backend solutions that bridge complex local labor law (IESS, *utilidades*) with global ERP systems for large telecom clients.
+## University projects
 
-📐 **Operations research & mathematical modelling** — Data-driven models that optimize business operations, workforce management and capital retention.
+| Project | What it does | Stack |
+|---|---|---|
+| **Golf game** | Golf game with our own physics engine, using a 4th-order Runge–Kutta ODE solver | Java |
+| **Quoridor AI** | Recreated the board game and built a series of agents: A*, pure MCTS, enhanced MCTS with domain heuristics and performance optimisation, and an AlphaZero-lite agent combining MCTS with a policy-value network trained from self-play | Java |
+| **Renewable energy forecasting** | Predicting renewable energy production from meteorological variables using FFN and GRU networks | Python |
 
-🤖 **Automated customer success** — Scalable documentation and tier-1 support automation that speed up client onboarding and cut operational friction.
+## Tools
 
-### 🧠 Tech stack
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,py,java,git&theme=dark" alt="Tools"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,linux,vscode&theme=dark" alt="Tech stack"/>
-</p>
+## Contact
 
-**Core:** Data Science · Operations Research · Mathematical Modelling
-**Focus:** Backend Architecture · Process Automation · B2B SaaS Systems
-
-> I treat code as a tool for solving complex business puzzles and driving measurable financial ROI, not just as engineering for its own sake.
-
-
-<!-- Animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
