@@ -12,7 +12,7 @@ Lead Developer at **Squarenet**, building B2B SaaS for payroll and compliance in
 - **Backend development.** C# with ASP.NET and Razor.
 - **Scalability.** Azure DevOps, CI/CD pipelines, and making the software hold up under more load and more clients.
 
-## Thesis
+## University Thesis
 
 Research on **TabPFN**, a state-of-the-art pretrained model for tabular data and a competitor to gradient-boosted trees like **XGBoost**.
 
